@@ -11,9 +11,9 @@
 
 📝 Roles: Developer... Leader... Entrepreneur... 
 
-📫 Email: **srcodedeveloper@gmail.com**
+📫 Email: **sebastianrcheikh@gmail.com**
 
-👌 Discord: **srcode_developer**
+👌 Discord: **sebastiancheikh**
 <!--Intro end-->
   </p>
 <br>
