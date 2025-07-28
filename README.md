@@ -7,7 +7,7 @@
 <p align="left">
 🎓 CURRENT STUDENT
 
-💻 In the world of programming I have 5 years of experience in general. I'm passionate about programming, business and robotics.
+💻 In the world of programming I have 5 years of experience in general. I'm passionate about programming, business, cybersecurity, robotics.
 
 📝 Roles: Developer... Leader... Entrepreneur... 
 
