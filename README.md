@@ -5,9 +5,9 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 CURRENT STUDENT
+👑 CEO byteTECH
 
-💻 In the world of programming I have 5 years of experience in general. I'm passionate about programming, business, cybersecurity, robotics.
+💻 In the world of programming I have 6 years of experience in general. I'm passionate about programming, business, cybersecurity, robotics.
 
 📝 Roles: Developer... Leader... Entrepreneur... 
 
