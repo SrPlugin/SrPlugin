@@ -5,7 +5,7 @@
 <!--Intro start-->
 
 <p align="left">
-👑 CEO byteTECH
+👑 CEO byteTECH, Fidelia
 
 💻 In the world of programming I have 6 years of experience in general. I'm passionate about programming, business, cybersecurity, robotics.
 
