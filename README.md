@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋  i'm Sebastian / SrCode ✨ </h1> 
+<h1 align="center">Hi 👋  i'm Sebastian / SrPlugin ✨ </h1> 
 
 <br>
 <h2>About Me 😃</h2>
@@ -7,11 +7,11 @@
 <p align="left">
 👑 CEO byteTECH, Fidelia
 
-💻 In the world of programming I have 6 years of experience in general. I'm passionate about programming, business, cybersecurity, robotics.
+💻 In the world of programming I have 7 years of experience in general. I'm passionate about programming, business, cybersecurity, robotics.
 
-📝 Roles: Developer... Leader... Entrepreneur... 
+📝 Roles: Software Architect... Leader... Entrepreneur... 
 
-📫 Email: **sebastianrcheikh@gmail.com**
+📫 Email: **srcodedeveloper@gmail.com**
 
 👌 Discord: **sebastiancheikh**
 <!--Intro end-->
