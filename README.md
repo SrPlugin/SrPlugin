@@ -85,14 +85,6 @@
 
 <br>
 
-<h2>🏆 GitHub Trophies</h2>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=SrPlugin&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
-</p>
-
-<br>
-
 <h2>💼 Current Focus</h2>
 
 <p align="left">
