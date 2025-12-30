@@ -57,7 +57,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,angular,nodejs,nest,sqlite,postgres,aws,docker,express,flutter,java,cpp,mongodb,mysql,nginx,sass,python,vite,tensorflow,bootstrap,astro,electron,cloudflare,dart,go&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,angular,nodejs,nest,sqlite,postgres,aws,docker,express,flutter,java,c,mongodb,mysql,nginx,sass,python,vite,tensorflow,bootstrap,astro,electron,cloudflare,dart,go,bun&perline=11" />
   </a>
 </p>
 
