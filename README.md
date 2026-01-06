@@ -13,7 +13,7 @@
   &nbsp;&nbsp;• <strong>Fidelia</strong> - Customer loyalty software for businesses<br>
   &nbsp;&nbsp;• <strong>Invitex</strong> - Event invitation and access management system
   
-  💻 <strong>7+ years</strong> of programming experience. Passionate about programming, business, cybersecurity, and robotics.
+  💻 <strong>8+ years</strong> of programming experience. Passionate about programming, business, cybersecurity, and robotics.
   
   ☁️ Love developing <strong>SaaS products</strong> that solve real business problems
   
